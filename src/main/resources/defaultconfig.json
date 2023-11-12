@@ -1,0 +1,12 @@
+{
+  "configVersion": 6,
+  "disabledMixins": [
+    "CustomPacketDisabler"
+  ],
+  "misc": {
+    "processSyncedBlockEventServerSide": [
+      "minecraft:note_block"
+    ]
+  },
+  "remapVanillaBlockIds": false
+}
